@@ -2,7 +2,7 @@
 
 Homework2  resume using bootstrap 
 
-Unzip the file: Resume.zip and Open Resume.html with a web browser.
+Unzip the file: Resume.zip and open Resume.html with a web browser.
 
 Google chrome is recommended.
 
